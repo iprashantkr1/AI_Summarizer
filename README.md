@@ -1,3 +1,3 @@
 # AI Summarizer
 
-Netlify Link: https://neon-melba-5f74dd.netlify.app/
+Netlify Link: https://sumzsummary.netlify.app/
